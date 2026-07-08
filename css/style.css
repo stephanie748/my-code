@@ -1,0 +1,195 @@
+:root {
+  color-scheme: light dark;
+  --bg: #f7f7f5;
+  --card-bg: #ffffff;
+  --text: #1f2320;
+  --muted: #5b6660;
+  --accent: #2f6f4f;
+  --accent-bg: #e7f2ec;
+  --border: #e1e4e0;
+  --done-bg: #f0f7f2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171a;
+    --card-bg: #1c2023;
+    --text: #eef1ee;
+    --muted: #a4aca6;
+    --accent: #6fc79a;
+    --accent-bg: #1e3327;
+    --border: #2a2f2c;
+    --done-bg: #17241c;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+header.letterhead {
+  padding: 1.5rem 1.5rem 1rem;
+  border-bottom: 3px solid var(--accent);
+  background: var(--card-bg);
+}
+
+header.letterhead h1 {
+  margin: 0 0 0.15rem;
+  font-size: 1.5rem;
+}
+
+header.letterhead .org-line {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+header.letterhead .page-title {
+  margin-top: 0.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+main {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.progress-wrap {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.progress-bar-track {
+  background: var(--border);
+  border-radius: 999px;
+  height: 10px;
+  overflow: hidden;
+  margin-top: 0.5rem;
+}
+
+.progress-bar-fill {
+  background: var(--accent);
+  height: 100%;
+  width: 0%;
+  transition: width 0.2s ease;
+}
+
+#overall-progress-label {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: -0.25rem;
+}
+
+ul.checklist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.checklist li {
+  padding: 0.6rem 0.4rem;
+  border-radius: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+ul.checklist li:last-child {
+  border-bottom: none;
+}
+
+ul.checklist li.done {
+  background: var(--done-bg);
+}
+
+ul.checklist label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  cursor: pointer;
+}
+
+ul.checklist input[type="checkbox"] {
+  margin-top: 0.2rem;
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--accent);
+  flex-shrink: 0;
+}
+
+ul.checklist li.done span,
+ul.checklist li.done a {
+  text-decoration: line-through;
+  color: var(--muted);
+}
+
+ul.checklist a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+ul.checklist a:hover {
+  text-decoration: underline;
+}
+
+.detail {
+  margin-left: 1.7rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+}
+
+.actions {
+  text-align: right;
+  margin-bottom: 2rem;
+}
+
+button#reset-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 6px;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+button#reset-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  padding: 1.5rem;
+}
