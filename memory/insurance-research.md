@@ -9,6 +9,33 @@ plan is the best fit for a senior. She thought the other company might be
 Aetna, but she isn't sure — the real goal is "best fit," not one specific
 company.
 
+## Her situation (learned July 10, 2026)
+
+- She used to have a **Humana PPO in Florida** and loved its low copay for
+  **physical therapy** — PT is something she uses regularly, so the PT copay
+  is one of the most important things to compare in any new plan.
+- She is now in the **Philadelphia, PA** area, and coverage there is costing
+  her more than Florida did.
+- **Important:** moving from Florida to Pennsylvania is a "qualifying life
+  event" — it opens a special window to switch plans without waiting for
+  fall. The window generally lasts through 2 full months after the month of
+  the move. Need to find out when she moved to know if it's still open.
+
+## Philadelphia-area options (2026)
+
+- **Independence Blue Cross** is the dominant local insurer — its
+  **Keystone 65** (HMO) plans are the most popular in Philadelphia County,
+  and **Personal Choice 65 (PPO)** is its PPO like her old Humana plan.
+- **Aetna**, **Humana**, and **UnitedHealthcare** also offer plans there.
+- Philadelphia County has about 66 Medicare Advantage plans; 42 have no
+  monthly premium beyond the standard Part B premium.
+- PT copays vary plan by plan and aren't in news articles — compare on
+  medicare.gov's plan finder (it shows the physical therapy copay for each
+  plan) or call the insurer.
+- Note: Florida plans are famously generous because of heavy competition
+  there; PA plans typically cost a bit more. That's normal, not something
+  she did wrong.
+
 ## The most important thing: timing
 
 Medicare only lets you switch plans during certain windows:
