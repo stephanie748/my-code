@@ -21,6 +21,40 @@ company.
   fall. The window generally lasts through 2 full months after the month of
   the move. Need to find out when she moved to know if it's still open.
 
+## Her deadline (confirmed July 10, 2026)
+
+**She moved June 1, 2026.** Her special moving window to switch plans runs
+through **August 31, 2026**. After that she waits for fall enrollment
+(Oct 15 – Dec 7).
+
+## Copay numbers found (July 10, 2026 — verify on medicare.gov before choosing)
+
+Aetna plans in Pennsylvania (may not all be sold in Philadelphia County —
+"Advantra" plans have historically been mostly western PA; must verify):
+
+| Plan | Monthly cost | Specialist | Physical therapy |
+|---|---|---|---|
+| Aetna Advantra Eagle (likely veterans-only, no drug coverage) | $0 | $10 | $10 |
+| Aetna Advantra Silver Plus | $18 | $35 | $25 |
+| Aetna Advantra Silver HMO | $0 | $40 | $40 |
+| Aetna Advantra Gold | $0 | $40 | $40 |
+
+Independence Blue Cross (the big Philadelphia insurer):
+
+| Plan | Specialist | Physical therapy |
+|---|---|---|
+| Personal Choice 65 Rx (PPO — like her old Humana PPO) | (verify) | $20 |
+| Personal Choice 65 Prime Rx (PPO) | $55 | $25 |
+| Keystone 65 Focus Rx (HMO-POS) | (verify) | $20 |
+| Keystone 65 Basic Rx (HMO) | varies | ~$25 (OT confirmed $25) |
+
+Early takeaway: **IBX's PPO plans have lower PT copays ($20–25) than most
+Aetna PA plans ($25–40)**, but Aetna's specialist copays ($35–40) beat
+IBX Prime's $55. Nothing found yet beats a combined low PT + low specialist
+except the veterans-only Aetna Eagle plan. Exact numbers for her ZIP must
+come from medicare.gov plan finder or SHIP (1-877-839-2675) — third-party
+sites were blocked or vague, so these figures are from secondary sources.
+
 ## Philadelphia-area options (2026)
 
 - **Independence Blue Cross** is the dominant local insurer — its
