@@ -55,6 +55,21 @@ except the veterans-only Aetna Eagle plan. Exact numbers for her ZIP must
 come from medicare.gov plan finder or SHIP (1-877-839-2675) — third-party
 sites were blocked or vague, so these figures are from secondary sources.
 
+## FINAL SHORTLIST (July 10, 2026) — she wants $0/month only
+
+She ruled out plans with a monthly premium (Personal Choice 65 Rx at
+$227/month is out). Best $0-premium options found:
+
+| Plan | Monthly | PT copay | Specialist | Notes |
+|---|---|---|---|---|
+| **Keystone 65 Basic Rx (HMO)** — IBX | $0 | **$25** | **$38** | $0 primary doctor; needs referrals; most popular plan in Philly |
+| **Personal Choice 65 Achieve Rx (PPO)** — IBX | $0 | **$25** | $40–55 | PPO like her old Humana FL plan; no referrals |
+| Aetna $0 plans | $0 | $40 | ~$40 | loses on PT, her top priority |
+
+Deciding question for the helpline: **which of the two IBX plans takes her
+doctors and physical therapist?** Script: "Tell me about Keystone 65 Basic
+Rx and Personal Choice 65 Achieve Rx — which one takes my doctors?"
+
 ## Philadelphia-area options (2026)
 
 - **Independence Blue Cross** is the dominant local insurer — its
