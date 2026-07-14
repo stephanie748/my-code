@@ -24,6 +24,14 @@ Started helping with this July 14, 2026, when she shared statement screenshots (
 ## Progress
 - 2026-07-14: Same day as the advice, she sent an extra $250 payment on her own. It goes to the 28.49% portion first. If she can keep roughly $250 extra going most months (~$450/month total with the minimum), payoff drops from 25 years to roughly 2–2.5 years. Encourage, don't pressure — celebrate each extra payment.
 
+## THE PLAN (she agreed to this on 2026-07-14)
+- $454/month total: autopay minimum (~$204, goes out around the 6th) + $250 extra she sends manually after autopay, same way she did the first one.
+- Payoff: ~28 months → around November 2028. Total interest ~$2,600 (vs $33,085 on minimum-only — saves ~$20,000 and ~23 years).
+- Milestone 1 (~Feb 2027): extra payments should have cleared the 28.49% chunk right as the 6.99% promo expires.
+- Milestone 2 (Jan 2027): CHECK IN — look for a new low-rate balance transfer offer for the remaining ~$6,500; could cut interest further. If none, plan continues as-is.
+- Tight months are fine: autopay keeps her safe, plan just stretches. Never guilt her about a missed extra payment.
+- Simulation script saved the math: two buckets, extra payments hit the 28.49% bucket first.
+
 ## Cautions
 - She's pre-revenue on the business (see grants-research.md), so cash is tight — don't suggest aggressive payment plans without asking what's affordable.
 - Grant money for the business generally can't be used to pay personal credit card debt.
