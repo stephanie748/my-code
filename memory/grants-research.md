@@ -45,6 +45,15 @@ She wants grants for **minority-owned** and **women-owned** startup businesses.
 - Warn her about grant scams: real grants never ask for bank passwords or big upfront fees. Small admin fees ($15) on Amber/HerRise are known and normal.
 - Hard rule from CLAUDE.md: never type or ask for passwords, card numbers, or codes — she handles any payment steps herself.
 
+## Current plan (started July 14, 2026)
+- She does NOT have a property for the sober living home yet — so the order is:
+  grant money first → lease a house → DDAP license ($250, online at pa.gov,
+  needs zoning/occupancy attestations, floor plans, business docs, background
+  checks) → state opioid settlement grants and referrals.
+- Drafted her Amber Grant + HerRise application answers in
+  `grant-applications/draft-answers.md`. Waiting on: years in business, her
+  personal story, her county, headshot + logo.
+
 ## Next steps
 - Ask her state → look up state-level minority/women business grants.
 - Confirm she qualifies as minority- and/or woman-owned (51% ownership rule).
