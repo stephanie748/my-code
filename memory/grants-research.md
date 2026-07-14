@@ -40,6 +40,12 @@ She wants grants for **minority-owned** and **women-owned** startup businesses.
 - **Medicaid NEMT (non-emergency medical transportation)** — not a grant, but steady per-ride payment if she enrolls as a Medicaid transport provider in her state. Could pay for the van over time.
 - The small women/minority business grants above (HerRise, Amber, Galaxy, Hello Alice) can be put toward a van — grant money from those is flexible.
 
+## Practical tips learned while helping her apply
+- Her **logo** is on her website: she goes to lifelinexo.com on her phone, presses and holds the logo image, and saves it to her photos. (She remembered doing this for a past application.)
+- She believes a HerRise application may have been submitted many months ago — fine either way, HerRise allows re-applying monthly.
+- Easiest application flow for her: do everything **on her phone** (photos are already there), with the helper artifact page for copy-paste: https://claude.ai/code/artifact/60826263-98df-47b2-8078-f5312c176d95
+- She works best one small step at a time, with her sending screenshots and Claude naming the exact next tap.
+
 ## Notes / cautions
 - Most big grants require 1–2 years in business; brand-new startups do best with the smaller private grants and pitch competitions above.
 - Warn her about grant scams: real grants never ask for bank passwords or big upfront fees. Small admin fees ($15) on Amber/HerRise are known and normal.
