@@ -8,8 +8,8 @@ She wants grants for **minority-owned** and **women-owned** startup businesses.
 - She has a **home care business** and needs funding for two specific things:
   1. **Sober living** (starting/running a sober living home / recovery residence)
   2. **Transportation** (a vehicle/van to transport home care clients)
-- She has been **in business for many years** (not a brand-new startup) — so she clears the "1–2 years in business" requirement many grants have.
-- **Important:** the MCO (managed care organization) in her area is **not accepting new nonmedical home care providers**. So the Medicaid managed-care route is closed for the nonmedical home care side — likely why she's looking at sober living and transportation to grow. (NEMT sometimes runs through a separate state broker rather than the MCO — worth checking in her state.)
+- **CORRECTION (July 14, 2026): the business is NOT open / operating yet.** The MCO closed its network to new nonmedical home care providers, so Lifeline has never been able to launch the home care side. The company has existed for years, but it is pre-revenue — do NOT write grant answers claiming years of serving clients.
+- That MCO lockout is the reason for the pivot: transportation, advocacy, and the sober living home are paths that don't depend on the MCO network.
 - She is in **Pennsylvania (PA)**. She's told me this before — do not ask again.
 - She has already added **transportation and advocacy services** as live service lines.
 - Still need to confirm: whether the business is for-profit or nonprofit, and rough yearly revenue.

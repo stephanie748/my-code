@@ -8,22 +8,26 @@ anything that's off, and add the personal details marked in [brackets].
 
 ## Answer 1: Tell us about your business
 
-Lifeline Medical Group is a minority- and woman-owned home care company in
-Pennsylvania. For [number] years, we have helped seniors and people with
-disabilities live safely and with dignity in their own homes. [1–2 sentences in
-Stephanie's own words: why she started Lifeline, and a moment that shows the
-impact — e.g. a client story.]
+IMPORTANT: Lifeline is pre-revenue — the MCO closed its network to new
+nonmedical home care providers before it could open. The story below is
+truthful to that.
 
-We recently expanded into transportation and advocacy services, because we kept
-seeing the same problem: our clients could get care, but they couldn't get TO
-care — and no one was speaking up for them when systems failed them. Now we
-drive clients to medical appointments and stand beside them as advocates.
+Lifeline Medical Group is a minority- and woman-owned company in Pennsylvania,
+founded [number] years ago to help seniors and people with disabilities live
+safely and with dignity in their own homes. [1–2 sentences in Stephanie's own
+words: why she started Lifeline.]
 
-Our next step is opening a sober living home. Pennsylvania is investing heavily
-in recovery housing, and our community needs safe, structured homes where people
-leaving treatment can rebuild their lives. With years of experience caring for
-vulnerable people in home settings, we are exactly the kind of operator these
-homes need.
+Just as we were ready to open our doors, the door was closed on us: the managed
+care organization stopped accepting new nonmedical home care providers into its
+network, shutting us out through no fault of our own. We refused to let that be
+the end of the story. We restructured around services our community needs that
+don't depend on that network: transportation to medical appointments, patient
+advocacy, and — our next step — a sober living home. Pennsylvania is investing
+heavily in recovery housing, and our community needs safe, structured homes
+where people leaving treatment can rebuild their lives.
+
+This grant wouldn't just fund a business expansion — it would launch a company
+that has done everything right and simply needs its first open door.
 
 ## Answer 2: What would you do with the grant money?
 
