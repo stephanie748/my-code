@@ -51,14 +51,16 @@ a sustainable program that serves our community for years.
 
 ---
 
-## Where to submit (Stephanie does the account + payment steps herself)
+## Application status
 
-- **Amber Grant** — ambergrantsforwomen.com → "Apply". One application enters
-  her for the $10,000 monthly grant AND the year-end $25K/$50K awards. $15 fee.
-  Deadline: last day of the month.
+- **Amber Grant** — ✅ ALREADY SUBMITTED (she confirmed July 14, 2026 — submitted
+  before these notes existed, exact date unknown). Monthly winners are also in
+  the running for the year-end $25K/$50K awards. No action needed unless she
+  wants to re-apply in a future month (re-applying monthly is allowed).
 - **HerRise MicroGrant** — hersuitespot.com/herrise → apply. Needs the two
   answers above, a headshot photo, and the business logo. $15 fee. Deadline:
-  last day of the month, 11:59pm ET.
+  last day of the month, 11:59pm ET. Status: not yet confirmed whether she
+  already submitted this one — ASK before drafting anything else.
 
 Reminder per house rules: Claude never enters passwords or card numbers —
 Stephanie creates the accounts and pays the $15 fees herself.
