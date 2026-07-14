@@ -64,6 +64,11 @@ a sustainable program that serves our community for years.
   rejection emails are sent (don't let her think silence means anything is
   wrong). Eligibility confirmed: 51%+ woman-of-color-owned, US-registered,
   under $1M revenue. Mark ✅ when she confirms she submitted.
+  Made her a copy-paste helper page (July 14, 2026):
+  https://claude.ai/code/artifact/60826263-98df-47b2-8078-f5312c176d95
+  Note: hersuitespot.com is blocked from Claude's own network here (egress
+  policy 403), so Claude can't view the form directly — she drives, Claude
+  guides screen-by-screen if she describes what she sees.
 
 Reminder per house rules: Claude never enters passwords or card numbers —
 Stephanie creates the accounts and pays the $15 fees herself.
