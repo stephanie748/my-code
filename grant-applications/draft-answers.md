@@ -57,10 +57,13 @@ a sustainable program that serves our community for years.
   before these notes existed, exact date unknown). Monthly winners are also in
   the running for the year-end $25K/$50K awards. No action needed unless she
   wants to re-apply in a future month (re-applying monthly is allowed).
-- **HerRise MicroGrant** — hersuitespot.com/herrise → apply. Needs the two
-  answers above, a headshot photo, and the business logo. $15 fee. Deadline:
-  last day of the month, 11:59pm ET. Status: not yet confirmed whether she
-  already submitted this one — ASK before drafting anything else.
+- **HerRise MicroGrant** — 🔜 READY TO SUBMIT (walkthrough given July 14, 2026).
+  hersuitespot.com → HerRise → apply. She pastes the two answers above, uploads
+  a headshot + business logo, pays the $15 fee herself. Deadline: July 31,
+  11:59pm ET. Winners announced at the next month's First Friday Mixer; NO
+  rejection emails are sent (don't let her think silence means anything is
+  wrong). Eligibility confirmed: 51%+ woman-of-color-owned, US-registered,
+  under $1M revenue. Mark ✅ when she confirms she submitted.
 
 Reminder per house rules: Claude never enters passwords or card numbers —
 Stephanie creates the accounts and pays the $15 fees herself.
