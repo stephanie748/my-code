@@ -21,6 +21,9 @@ Started helping with this July 14, 2026, when she shared statement screenshots (
 2. Before Feb 2027: either pay the balance way down, or look for a new 0%/low-rate balance transfer offer or a credit union loan to move the $8K before it jumps to 28.49%.
 3. If money gets tight: Barclays hardship line (1-866-839-2435) and the free nonprofit credit counseling number printed on her statement (1-800-570-1403). Real help is free/cheap — never give passwords or card numbers to anyone who calls HER.
 
+## Progress
+- 2026-07-14: Same day as the advice, she sent an extra $250 payment on her own. It goes to the 28.49% portion first. If she can keep roughly $250 extra going most months (~$450/month total with the minimum), payoff drops from 25 years to roughly 2–2.5 years. Encourage, don't pressure — celebrate each extra payment.
+
 ## Cautions
 - She's pre-revenue on the business (see grants-research.md), so cash is tight — don't suggest aggressive payment plans without asking what's affordable.
 - Grant money for the business generally can't be used to pay personal credit card debt.
