@@ -54,6 +54,15 @@ She wants grants for **minority-owned** and **women-owned** startup businesses.
   `grant-applications/draft-answers.md`. Waiting on: years in business, her
   personal story, her county, headshot + logo.
 
+## Confirmed business facts (July 14, 2026)
+- Founded 2021. Pre-revenue: MCO closed network to new nonmedical home care providers before launch.
+- Service area: Philadelphia, Montgomery, Bucks, Delaware counties. Transportation = Philadelphia only until expansion.
+- Her "why": natural born advocate.
+
+## Philadelphia-specific leads
+- **Overdose Prevention and Community Healing Fund** (Philadelphia's opioid settlement grants, run through the **Scattergood Foundation**): Organizational Support Grants $20K, Program Grants $100K, for treatment/recovery work incl. recovery housing. Philadelphia gets $200M+ over 18 years. Apply via scattergoodfoundation.org. Note: past rounds went to nonprofits — check whether for-profits qualify or whether a nonprofit arm/fiscal sponsor is needed.
+- **Philadelphia MATP** — county contact at matp.pa.gov/CountyContact.aspx; transportation providers contract through the county program (separate from the MCO).
+
 ## Next steps
 - Ask her state → look up state-level minority/women business grants.
 - Confirm she qualifies as minority- and/or woman-owned (51% ownership rule).

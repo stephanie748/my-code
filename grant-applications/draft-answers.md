@@ -12,16 +12,19 @@ IMPORTANT: Lifeline is pre-revenue — the MCO closed its network to new
 nonmedical home care providers before it could open. The story below is
 truthful to that.
 
-Lifeline Medical Group is a minority- and woman-owned company in Pennsylvania,
-founded [number] years ago to help seniors and people with disabilities live
-safely and with dignity in their own homes. [1–2 sentences in Stephanie's own
-words: why she started Lifeline.]
+Lifeline Medical Group is a minority- and woman-owned company serving the
+Philadelphia area, founded in 2021 to help seniors and people with disabilities
+live safely and with dignity in their own homes. I founded Lifeline because I
+am a natural born advocate — speaking up for people who can't speak up for
+themselves is what I have done my whole life, and I built a company to do it
+full time.
 
 Just as we were ready to open our doors, the door was closed on us: the managed
 care organization stopped accepting new nonmedical home care providers into its
 network, shutting us out through no fault of our own. We refused to let that be
 the end of the story. We restructured around services our community needs that
-don't depend on that network: transportation to medical appointments, patient
+don't depend on that network: transportation to medical appointments (launching
+in Philadelphia, expanding to Montgomery, Bucks, and Delaware counties), patient
 advocacy, and — our next step — a sober living home. Pennsylvania is investing
 heavily in recovery housing, and our community needs safe, structured homes
 where people leaving treatment can rebuild their lives.
@@ -62,7 +65,12 @@ Stephanie creates the accounts and pays the $15 fees herself.
 
 ## Still needed from Stephanie
 
-- How many years in business (exact number)
-- A short personal story / why she started Lifeline
-- Her county (for county opioid settlement grants and MATP transportation)
 - Headshot and logo files (for HerRise)
+
+## Business facts (confirmed July 14, 2026)
+
+- Founded 2021; pre-revenue because the MCO closed its network to new
+  nonmedical home care providers before launch
+- Service area: Philadelphia, Montgomery, Bucks, and Delaware counties
+- Transportation service: Philadelphia only until expansion
+- Her "why": natural born advocate
